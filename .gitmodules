@@ -1,0 +1,8 @@
+[submodule "sophia"]
+	path = sophia
+	url = https://github.com/pmwkaa/sophia.git
+
+[submodule "cpp-HyperLogLog"]
+	path = cpp-HyperLogLog
+	url = https://github.com/hideo55/cpp-HyperLogLog.git
+
