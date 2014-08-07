@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1407424746 source:/home/ker2x/git/hyperLogLogDB/main.cpp
+	<iostream>
+	"HyperLogLogDB.h"
+
+1407424789 /home/ker2x/git/hyperLogLogDB/include/HyperLogLogDB.h
+	<iostream>
+
+1407424728 source:/home/ker2x/git/hyperLogLogDB/src/HyperLogLogDB.cpp
+	"HyperLogLogDB.h"
+
